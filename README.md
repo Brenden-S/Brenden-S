@@ -5,6 +5,6 @@ Projects:
 
 [Senior Design Pinball Machine](https://github.com/Brenden-S/Senior-Design-Pinball-Machine)
 
-[Drone Arm Reverse Engineering](https://github.com/Brenden-S/Senior-Design-Pinball-Machine)
+[Drone Arm Reverse Engineering](https://github.com/Brenden-S/FPV-Drone-Arm-Reverese-Engineering)
 
 [Motorcycle Tail Bracket](https://github.com/Brenden-S/Motorcycle-Tail-Bracket)
